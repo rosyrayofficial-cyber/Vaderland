@@ -1,0 +1,66 @@
+[
+  {
+    "id": "wilders",
+    "name": "Geert Wilders",
+    "party": "PVV",
+    "portrait": { "neutral": "🦁", "concerned": "😠", "angry": "🤬", "pleased": "😌" },
+    "bio": "Hardline opposition veteran focused on migration and sovereignty.",
+    "stats": { "charisma": 78, "ideologyScore": 82, "partyLoyalty": 91, "publicTrust": 54, "mediaRelations": 40, "debateSkill": 71, "mediaSavvy": 49 }
+  },
+  {
+    "id": "yesilgoz",
+    "name": "Dilan Yesilgoz",
+    "party": "VVD",
+    "portrait": { "neutral": "⚖️", "concerned": "😟", "angry": "😤", "pleased": "🙂" },
+    "bio": "Liberal-conservative leader balancing security and enterprise.",
+    "stats": { "charisma": 66, "ideologyScore": 35, "partyLoyalty": 76, "publicTrust": 56, "mediaRelations": 64, "debateSkill": 67, "mediaSavvy": 66 }
+  },
+  {
+    "id": "timmermans",
+    "name": "Frans Timmermans",
+    "party": "GL-PvdA",
+    "portrait": { "neutral": "🌍", "concerned": "😐", "angry": "😡", "pleased": "😊" },
+    "bio": "Former EU commissioner, climate and social coalition builder.",
+    "stats": { "charisma": 70, "ideologyScore": -60, "partyLoyalty": 80, "publicTrust": 58, "mediaRelations": 69, "debateSkill": 75, "mediaSavvy": 70 }
+  },
+  {
+    "id": "omtzigt",
+    "name": "Pieter Omtzigt",
+    "party": "NSC",
+    "portrait": { "neutral": "📜", "concerned": "😕", "angry": "😠", "pleased": "🙂" },
+    "bio": "Institutional reform advocate with strong governance brand.",
+    "stats": { "charisma": 62, "ideologyScore": 18, "partyLoyalty": 73, "publicTrust": 71, "mediaRelations": 58, "debateSkill": 72, "mediaSavvy": 57 }
+  },
+  {
+    "id": "jetten",
+    "name": "Rob Jetten",
+    "party": "D66",
+    "portrait": { "neutral": "📘", "concerned": "😟", "angry": "😠", "pleased": "😄" },
+    "bio": "Centrist-progressive with strong climate and education focus.",
+    "stats": { "charisma": 63, "ideologyScore": -20, "partyLoyalty": 71, "publicTrust": 53, "mediaRelations": 62, "debateSkill": 69, "mediaSavvy": 63 }
+  },
+  {
+    "id": "vanDerPlas",
+    "name": "Caroline van der Plas",
+    "party": "BBB",
+    "portrait": { "neutral": "🚜", "concerned": "😬", "angry": "😡", "pleased": "😄" },
+    "bio": "Rural populist voice emphasizing agriculture and regional fairness.",
+    "stats": { "charisma": 68, "ideologyScore": 52, "partyLoyalty": 83, "publicTrust": 57, "mediaRelations": 61, "debateSkill": 64, "mediaSavvy": 65 }
+  },
+  {
+    "id": "bontenbal",
+    "name": "Henri Bontenbal",
+    "party": "CDA",
+    "portrait": { "neutral": "⛪", "concerned": "😟", "angry": "😠", "pleased": "🙂" },
+    "bio": "Christian-democratic bridge builder focused on social cohesion.",
+    "stats": { "charisma": 60, "ideologyScore": 18, "partyLoyalty": 74, "publicTrust": 55, "mediaRelations": 58, "debateSkill": 63, "mediaSavvy": 54 }
+  },
+  {
+    "id": "ouwehand",
+    "name": "Esther Ouwehand",
+    "party": "PvdD",
+    "portrait": { "neutral": "🐾", "concerned": "😐", "angry": "😠", "pleased": "🙂" },
+    "bio": "Animal rights and climate advocate with strong activist base.",
+    "stats": { "charisma": 59, "ideologyScore": -52, "partyLoyalty": 79, "publicTrust": 52, "mediaRelations": 57, "debateSkill": 68, "mediaSavvy": 56 }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "PVV",
+    "name": "Partij voor de Vrijheid",
+    "color": "#1f4fa3",
+    "baseSeats": 37,
+    "ideology": { "leftRight": 72, "progressiveConservative": 84 },
+    "coalitionWillingness": 50,
+    "hiddenPriority": "Immigration Control"
+  },
+  {
+    "id": "VVD",
+    "name": "Volkspartij voor Vrijheid en Democratie",
+    "color": "#2e6bd1",
+    "baseSeats": 24,
+    "ideology": { "leftRight": 46, "progressiveConservative": 28 },
+    "coalitionWillingness": 72,
+    "hiddenPriority": "Tax Competitiveness"
+  },
+  {
+    "id": "GL-PvdA",
+    "name": "GroenLinks-PvdA",
+    "color": "#d03d3d",
+    "baseSeats": 25,
+    "ideology": { "leftRight": -66, "progressiveConservative": -74 },
+    "coalitionWillingness": 64,
+    "hiddenPriority": "Climate Acceleration"
+  },
+  {
+    "id": "NSC",
+    "name": "Nieuw Sociaal Contract",
+    "color": "#00a0a0",
+    "baseSeats": 20,
+    "ideology": { "leftRight": 12, "progressiveConservative": 10 },
+    "coalitionWillingness": 58,
+    "hiddenPriority": "Governance Reform"
+  },
+  {
+    "id": "D66",
+    "name": "Democraten 66",
+    "color": "#48b35e",
+    "baseSeats": 9,
+    "ideology": { "leftRight": -10, "progressiveConservative": -62 },
+    "coalitionWillingness": 67,
+    "hiddenPriority": "Education Investment"
+  },
+  {
+    "id": "BBB",
+    "name": "BoerBurgerBeweging",
+    "color": "#5f9c35",
+    "baseSeats": 7,
+    "ideology": { "leftRight": 38, "progressiveConservative": 66 },
+    "coalitionWillingness": 55,
+    "hiddenPriority": "Agrarian Guarantees"
+  },
+  {
+    "id": "CDA",
+    "name": "Christen-Democratisch Appel",
+    "color": "#3b8f3f",
+    "baseSeats": 5,
+    "ideology": { "leftRight": 25, "progressiveConservative": 34 },
+    "coalitionWillingness": 76,
+    "hiddenPriority": "Family Policy"
+  },
+  {
+    "id": "SP",
+    "name": "Socialistische Partij",
+    "color": "#d83030",
+    "baseSeats": 5,
+    "ideology": { "leftRight": -78, "progressiveConservative": -12 },
+    "coalitionWillingness": 44,
+    "hiddenPriority": "Rent Controls"
+  },
+  {
+    "id": "CU",
+    "name": "ChristenUnie",
+    "color": "#4aa35d",
+    "baseSeats": 3,
+    "ideology": { "leftRight": -4, "progressiveConservative": 42 },
+    "coalitionWillingness": 69,
+    "hiddenPriority": "Care Ethics"
+  },
+  {
+    "id": "DENK",
+    "name": "DENK",
+    "color": "#39b1a0",
+    "baseSeats": 3,
+    "ideology": { "leftRight": -36, "progressiveConservative": -10 },
+    "coalitionWillingness": 45,
+    "hiddenPriority": "Equal Opportunity"
+  },
+  {
+    "id": "Volt",
+    "name": "Volt Nederland",
+    "color": "#7a4ce0",
+    "baseSeats": 2,
+    "ideology": { "leftRight": -18, "progressiveConservative": -66 },
+    "coalitionWillingness": 61,
+    "hiddenPriority": "EU Integration"
+  },
+  {
+    "id": "PvdD",
+    "name": "Partij voor de Dieren",
+    "color": "#7a6043",
+    "baseSeats": 3,
+    "ideology": { "leftRight": -56, "progressiveConservative": -40 },
+    "coalitionWillingness": 43,
+    "hiddenPriority": "Animal Welfare"
+  }
+]

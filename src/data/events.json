@@ -1,0 +1,2682 @@
+﻿[
+    {
+        "id":  "ev001",
+        "category":  "economic",
+        "title":  "Housing Market Freeze",
+        "summary":  "Cabinet briefing: Housing Market Freeze requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  null,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev001-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.9,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev001-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev002",
+        "category":  "economic",
+        "title":  "Energy Price Spike",
+        "summary":  "Cabinet briefing: Energy Price Spike requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  null,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev002-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.9,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev002-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev003",
+        "category":  "economic",
+        "title":  "Port Throughput Slump",
+        "summary":  "Cabinet briefing: Port Throughput Slump requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  3,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev003-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.9,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev003-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev004",
+        "category":  "economic",
+        "title":  "Tech Investment Surge",
+        "summary":  "Cabinet briefing: Tech Investment Surge requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  null,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev004-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.9,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev004-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev005",
+        "category":  "economic",
+        "title":  "Eurozone Growth Dip",
+        "summary":  "Cabinet briefing: Eurozone Growth Dip requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  4,
+        "followUpEventId":  "ev003",
+        "choices":  [
+                        {
+                            "id":  "ev005-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.9,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev005-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev006",
+        "category":  "economic",
+        "title":  "Pension Fund Pressure",
+        "summary":  "Cabinet briefing: Pension Fund Pressure requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  3,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev006-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.9,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev006-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev007",
+        "category":  "economic",
+        "title":  "Credit Downgrade Watch",
+        "summary":  "Cabinet briefing: Credit Downgrade Watch requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  null,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev007-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.9,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev007-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev008",
+        "category":  "economic",
+        "title":  "Logistics Strike",
+        "summary":  "Cabinet briefing: Logistics Strike requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  null,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev008-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.9,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev008-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev009",
+        "category":  "international",
+        "title":  "EU Directive Deadline",
+        "summary":  "Cabinet briefing: EU Directive Deadline requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  3,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev009-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev009-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev010",
+        "category":  "international",
+        "title":  "Trade Friction with Germany",
+        "summary":  "Cabinet briefing: Trade Friction with Germany requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  4,
+        "followUpEventId":  "ev008",
+        "choices":  [
+                        {
+                            "id":  "ev010-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev010-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev011",
+        "category":  "international",
+        "title":  "Refugee Reception Surge",
+        "summary":  "Cabinet briefing: Refugee Reception Surge requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  null,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev011-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev011-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev012",
+        "category":  "international",
+        "title":  "NATO Budget Request",
+        "summary":  "Cabinet briefing: NATO Budget Request requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  3,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev012-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev012-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev013",
+        "category":  "international",
+        "title":  "North Sea Shipping Dispute",
+        "summary":  "Cabinet briefing: North Sea Shipping Dispute requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  null,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev013-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev013-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev014",
+        "category":  "international",
+        "title":  "Brussels Competition Probe",
+        "summary":  "Cabinet briefing: Brussels Competition Probe requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  null,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev014-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev014-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev015",
+        "category":  "international",
+        "title":  "Eurogroup Fiscal Review",
+        "summary":  "Cabinet briefing: Eurogroup Fiscal Review requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  4,
+        "followUpEventId":  "ev013",
+        "choices":  [
+                        {
+                            "id":  "ev015-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev015-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev016",
+        "category":  "international",
+        "title":  "Diplomatic Summit Opportunity",
+        "summary":  "Cabinet briefing: Diplomatic Summit Opportunity requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  null,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev016-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev016-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev017",
+        "category":  "environment",
+        "title":  "Limburg Flood Risk Alert",
+        "summary":  "Cabinet briefing: Limburg Flood Risk Alert requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  null,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev017-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.9,
+                                            "climate":  4,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev017-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  2,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev018",
+        "category":  "environment",
+        "title":  "Summer Drought Warning",
+        "summary":  "Cabinet briefing: Summer Drought Warning requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  3,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev018-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.9,
+                                            "climate":  4,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev018-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  2,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev019",
+        "category":  "environment",
+        "title":  "Nitrogen Court Ruling",
+        "summary":  "Cabinet briefing: Nitrogen Court Ruling requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  null,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev019-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.9,
+                                            "climate":  4,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev019-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  2,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev020",
+        "category":  "environment",
+        "title":  "Offshore Wind Delay",
+        "summary":  "Cabinet briefing: Offshore Wind Delay requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  4,
+        "followUpEventId":  "ev018",
+        "choices":  [
+                        {
+                            "id":  "ev020-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.9,
+                                            "climate":  4,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev020-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  2,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev021",
+        "category":  "environment",
+        "title":  "River Delta Reinforcement",
+        "summary":  "Cabinet briefing: River Delta Reinforcement requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  3,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev021-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.9,
+                                            "climate":  4,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev021-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  2,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev022",
+        "category":  "environment",
+        "title":  "Water Board Emergency",
+        "summary":  "Cabinet briefing: Water Board Emergency requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  null,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev022-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.9,
+                                            "climate":  4,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev022-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  2,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev023",
+        "category":  "environment",
+        "title":  "Heatwave Grid Stress",
+        "summary":  "Cabinet briefing: Heatwave Grid Stress requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  null,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev023-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.9,
+                                            "climate":  4,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev023-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  2,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev024",
+        "category":  "environment",
+        "title":  "Biodiversity Restoration Pact",
+        "summary":  "Cabinet briefing: Biodiversity Restoration Pact requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  3,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev024-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.9,
+                                            "climate":  4,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev024-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  2,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev025",
+        "category":  "domestic",
+        "title":  "Minister Expense Leak",
+        "summary":  "Cabinet briefing: Minister Expense Leak requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  4,
+        "followUpEventId":  "ev023",
+        "choices":  [
+                        {
+                            "id":  "ev025-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -3,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev025-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev026",
+        "category":  "domestic",
+        "title":  "Coalition WhatsApp Leak",
+        "summary":  "Cabinet briefing: Coalition WhatsApp Leak requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  null,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev026-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -3,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev026-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev027",
+        "category":  "domestic",
+        "title":  "Public Procurement Probe",
+        "summary":  "Cabinet briefing: Public Procurement Probe requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  3,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev027-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -3,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev027-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev028",
+        "category":  "domestic",
+        "title":  "Hospital Queue Outrage",
+        "summary":  "Cabinet briefing: Hospital Queue Outrage requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  null,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev028-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -3,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev028-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev029",
+        "category":  "domestic",
+        "title":  "Police Staffing Dispute",
+        "summary":  "Cabinet briefing: Police Staffing Dispute requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  null,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev029-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -3,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev029-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev030",
+        "category":  "domestic",
+        "title":  "Rail Timetable Collapse",
+        "summary":  "Cabinet briefing: Rail Timetable Collapse requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  4,
+        "followUpEventId":  "ev028",
+        "choices":  [
+                        {
+                            "id":  "ev030-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -3,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev030-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev031",
+        "category":  "domestic",
+        "title":  "Municipal Corruption Rumor",
+        "summary":  "Cabinet briefing: Municipal Corruption Rumor requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  null,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev031-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -3,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev031-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev032",
+        "category":  "domestic",
+        "title":  "Public Housing Protest",
+        "summary":  "Cabinet briefing: Public Housing Protest requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  null,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev032-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  -3,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev032-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev033",
+        "category":  "opportunity",
+        "title":  "Innovation Cluster Breakthrough",
+        "summary":  "Cabinet briefing: Innovation Cluster Breakthrough requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  3,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev033-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  3,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev033-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev034",
+        "category":  "opportunity",
+        "title":  "Dutch EU Presidency Agenda",
+        "summary":  "Cabinet briefing: Dutch EU Presidency Agenda requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  null,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev034-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  3,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev034-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev035",
+        "category":  "opportunity",
+        "title":  "Green Industry Partnership",
+        "summary":  "Cabinet briefing: Green Industry Partnership requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  4,
+        "followUpEventId":  "ev033",
+        "choices":  [
+                        {
+                            "id":  "ev035-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  3,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev035-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev036",
+        "category":  "opportunity",
+        "title":  "Education Excellence Ranking",
+        "summary":  "Cabinet briefing: Education Excellence Ranking requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  3,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev036-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  3,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev036-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev037",
+        "category":  "opportunity",
+        "title":  "Major Semiconductor Expansion",
+        "summary":  "Cabinet briefing: Major Semiconductor Expansion requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  null,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev037-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  3,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev037-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev038",
+        "category":  "opportunity",
+        "title":  "Port Electrification Grant",
+        "summary":  "Cabinet briefing: Port Electrification Grant requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  null,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev038-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  3,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev038-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev039",
+        "category":  "opportunity",
+        "title":  "Cybersecurity Export Pact",
+        "summary":  "Cabinet briefing: Cybersecurity Export Pact requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  3,
+        "followUpEventId":  null,
+        "choices":  [
+                        {
+                            "id":  "ev039-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  3,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev039-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    },
+    {
+        "id":  "ev040",
+        "category":  "opportunity",
+        "title":  "National Infrastructure Acceleration",
+        "summary":  "Cabinet briefing: National Infrastructure Acceleration requires immediate direction.",
+        "body":  "Civil service analysis indicates measurable trade-offs for approval, coalition stability and fiscal room. Choose your line before media framing hardens.",
+        "followUpAfterMonths":  4,
+        "followUpEventId":  "ev038",
+        "choices":  [
+                        {
+                            "id":  "ev040-a",
+                            "label":  "Force Through Major Reform",
+                            "pkCost":  10,
+                            "preview":  [
+                                            "+Decisive image",
+                                            "-Political capital",
+                                            "+Medium-term policy impact"
+                                        ],
+                            "effects":  {
+                                            "approval":  3,
+                                            "stability":  -1,
+                                            "media":  2,
+                                            "debt":  0.3,
+                                            "climate":  1,
+                                            "polling":  1,
+                                            "faction":  {
+                                                            "hardliners":  2,
+                                                            "moderates":  -1,
+                                                            "pragmatists":  1
+                                                        },
+                                            "segments":  {
+                                                             "Young voters":  2,
+                                                             "Rural conservatives":  -1,
+                                                             "Public sector workers":  1
+                                                         }
+                                        }
+                        },
+                        {
+                            "id":  "ev040-b",
+                            "label":  "Build Broad Compromise",
+                            "pkCost":  4,
+                            "preview":  [
+                                            "+Coalition stability",
+                                            "+Moderate media tone",
+                                            "-Slower policy progress"
+                                        ],
+                            "effects":  {
+                                            "approval":  1,
+                                            "stability":  3,
+                                            "media":  1,
+                                            "debt":  0.1,
+                                            "climate":  0,
+                                            "polling":  0,
+                                            "faction":  {
+                                                            "hardliners":  -2,
+                                                            "moderates":  2,
+                                                            "pragmatists":  2
+                                                        },
+                                            "segments":  {
+                                                             "Elderly (65+)":  1,
+                                                             "Vinex suburbanites":  2,
+                                                             "ZZP/entrepreneurs":  1
+                                                         }
+                                        }
+                        }
+                    ]
+    }
+]

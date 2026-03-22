@@ -1,0 +1,19 @@
+{
+  "app.title": "Vaderland",
+  "app.subtitle": "Nederlandse Parlementaire Simulator",
+  "ui.newRun": "Nieuwe Start",
+  "ui.save": "Opslaan",
+  "ui.load": "Laden",
+  "ui.language": "Taal",
+  "ui.difficulty": "Moeilijkheid",
+  "phase.coalition": "Formatie",
+  "phase.governance": "Bestuur",
+  "phase.campaign": "Campagne",
+  "dashboard.health": "Nationale Gezondheidsscore",
+  "dashboard.metrics": "Nationale Kengetallen",
+  "dashboard.map": "Provinciale Goedkeuringskaart",
+  "panel.timeline": "Kabinetstijdlijn",
+  "panel.encyclopedia": "Politieke Gids",
+  "panel.relationships": "Relatienetwerk",
+  "panel.debate": "Kamerdebat"
+}

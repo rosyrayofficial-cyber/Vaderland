@@ -1,0 +1,19 @@
+{
+  "app.title": "Vaderland",
+  "app.subtitle": "Dutch Parliament Intelligence Simulator",
+  "ui.newRun": "New Run",
+  "ui.save": "Save",
+  "ui.load": "Load",
+  "ui.language": "Language",
+  "ui.difficulty": "Difficulty",
+  "phase.coalition": "Coalition",
+  "phase.governance": "Governance",
+  "phase.campaign": "Campaign",
+  "dashboard.health": "National Health Score",
+  "dashboard.metrics": "National Metrics",
+  "dashboard.map": "Provincial Approval Map",
+  "panel.timeline": "Government Timeline",
+  "panel.encyclopedia": "Politieke Gids",
+  "panel.relationships": "Relationship Web",
+  "panel.debate": "Parliamentary Debate"
+}

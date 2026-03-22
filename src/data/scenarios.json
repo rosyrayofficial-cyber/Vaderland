@@ -1,0 +1,35 @@
+[
+  {
+    "id": "formatie",
+    "name": "Post-Election Formatie",
+    "description": "No coalition yet. Build a governing majority from scratch.",
+    "phase": "coalition",
+    "daysUntilElection": 1460,
+    "coalitionStability": 55,
+    "overallApproval": 50,
+    "mediaSentiment": 50,
+    "politicalCapital": 58
+  },
+  {
+    "id": "midterm-crisis",
+    "name": "Mid-Term Crisis",
+    "description": "Coalition is wobbling. Stabilize government before it collapses.",
+    "phase": "governance",
+    "daysUntilElection": 690,
+    "coalitionStability": 32,
+    "overallApproval": 44,
+    "mediaSentiment": 41,
+    "politicalCapital": 38
+  },
+  {
+    "id": "snap-election",
+    "name": "Snap Election Called",
+    "description": "Campaign mode starts immediately with 30 days to election day.",
+    "phase": "campaign",
+    "daysUntilElection": 30,
+    "coalitionStability": 28,
+    "overallApproval": 47,
+    "mediaSentiment": 45,
+    "politicalCapital": 42
+  }
+]

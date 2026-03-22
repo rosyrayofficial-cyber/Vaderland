@@ -1,0 +1,56 @@
+﻿{
+    "mechanics":  [
+                      {
+                          "body":  "PK is consumed by hard reforms and replenished by debate wins, stable coalitions, and faction trust.",
+                          "title":  "Politiek Kapitaal"
+                      },
+                      {
+                          "body":  "Low stability increases collapse probability and harms media framing.",
+                          "title":  "Coalition Stability"
+                      },
+                      {
+                          "body":  "Composite index across economy, society, politics, and environment.",
+                          "title":  "National Health Score"
+                      },
+                      {
+                          "body":  "Choose rhetoric style against ideological AI responses to alter bill passage and approval.",
+                          "title":  "Debate System"
+                      }
+                  ],
+    "parties":  [
+                    {
+                        "id":  "PVV",
+                        "note":  "Right-populist, high migration salience."
+                    },
+                    {
+                        "id":  "VVD",
+                        "note":  "Market-liberal, governance continuity."
+                    },
+                    {
+                        "id":  "GL-PvdA",
+                        "note":  "Progressive-left, climate and social agenda."
+                    },
+                    {
+                        "id":  "NSC",
+                        "note":  "Institutional reform and social contract."
+                    }
+                ],
+    "metrics":  [
+                    {
+                        "id":  "overallApproval",
+                        "affects":  "Election outcomes, coalition leverage, media resilience."
+                    },
+                    {
+                        "id":  "politicalCapital",
+                        "affects":  "Decision availability for high-impact choices."
+                    },
+                    {
+                        "id":  "creditRating",
+                        "affects":  "Borrowing costs and budget flexibility."
+                    },
+                    {
+                        "id":  "coalitionStability",
+                        "affects":  "Government lifespan and confidence votes."
+                    }
+                ]
+}
